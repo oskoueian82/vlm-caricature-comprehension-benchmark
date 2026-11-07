@@ -1,0 +1,25 @@
+# ==============================================================================
+# EXPERIMENTAL PROTOCOL: WHOLE IMAGE COMPREHENSION TEST (HOLISTIC BASELINE)
+# ==============================================================================
+# Test Condition: Full, unedited caricature stimulus
+# Replication Control: Executed across 3 independent, fresh chat sessions per model
+# Scoring Target: Part 2 ("Semantic Interpretation") scored on a 0–2 scale
+# ==============================================================================
+
+You will be shown an image (a cartoon). Please proceed in the following order:
+
+Part 1 — Objective Description of Components:
+Based only on what you actually see in the image (without guessing or semantic interpretation), list the following:
+- What people, creatures, or objects are present?
+- What is their body posture, facial expression, gaze direction, and movement?
+- What is the spatial relationship between elements (what is near what, what is on/behind/beside what)?
+- Is there any text, symbol, or written mark in the image? If so, what exactly does it say or look like?
+- Any other unusual or striking visual detail you notice.
+
+Part 2 — Semantic Interpretation:
+Now, based only on the elements you listed in Part 1 (without referring to anything not mentioned there), answer this question:
+What does this cartoon depict, and what is its overall message or meaning?
+
+Please write your response under exactly these two separate headings:
+"Objective Description"
+"Semantic Interpretation"
