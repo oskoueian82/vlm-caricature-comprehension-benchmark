@@ -35,6 +35,7 @@ To determine whether VLM failures stem from raw visual deficits or higher-order 
 ---
 
 ## 📊 Structural Error Taxonomy (E0–E4)
+![Rhino and Unicorn Anchor Caricature](rhino_unicorn_anchor.jpg)
 
 All examples below reference a single standardized anchor stimulus: *a rhinoceros running hard on a treadmill in a dark room, sweat visible on its face, gazing at a poster of a rearing unicorn on the wall.*
 
